@@ -17,7 +17,8 @@ Deployed live on [Vercel](https://vercel.com) 🌐
 ---
 
 ## 🖼️ Demo
-![AI Chat App Screenshot](photo/screenshot.png)
+![AI Chat App Screenshot](../photo/Screenshot.png)
+
 
 
 ---
