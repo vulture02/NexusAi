@@ -17,8 +17,8 @@ Deployed live on [Vercel](https://vercel.com) 🌐
 ---
 
 ## 🖼️ Demo
+![AI Chat App Screenshot](photo/screenshot.png)
 
-![AI Chat App Screenshot]([https://your-screenshot-url-if-you-have-one](https://nexus-ai-lake.vercel.app/))
 
 ---
 
