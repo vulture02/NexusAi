@@ -1,12 +1,54 @@
-# React + Vite
+# 🤖 AI Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern AI-powered chat application built with **React**, styled using **Tailwind CSS**, and integrated with **Puter JS SDK** for AI interaction.
 
-Currently, two official plugins are available:
+Deployed live on [Vercel](https://vercel.com) 🌐
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Chat with AI using the [Puter AI SDK](https://puter.com/)
+- ✅ Stylish and responsive UI built with Tailwind CSS
+- ✅ Loading indicators for smooth UX
+- ✅ Automatically scrolls to latest message
+- ✅ Easily deployable on Vercel or any static host
+
+---
+
+## 🖼️ Demo
+
+![AI Chat App Screenshot](https://your-screenshot-url-if-you-have-one)
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Use |
+|------------|-----|
+| React | Frontend logic |
+| Tailwind CSS | Styling & layout |
+| Puter JS | AI integration |
+| Vercel | Deployment |
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/ai-chat-app.git
+cd ai-chat-app
+npm install
+npm run dev
+.
+├── public/
+│   └── index.html  # Loads Puter JS script
+├── src/
+│   ├── App.jsx      # Main React component
+│   └── main.jsx     # Entry point
+├── tailwind.config.js
+└── package.json
+
+---
+
+
